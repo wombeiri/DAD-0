@@ -18,6 +18,7 @@ public class AC122 {
     public static void main(String[] args) {
         File f = null;
         String path = "";
+        String prueba = "prueba";
         
         try {
             f = new File("prueba.txt");
